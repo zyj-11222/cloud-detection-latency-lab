@@ -1,0 +1,3 @@
+# Synthetic detection probe; never issued by a service.
+# Search marker: cloudprobe940014c692d4e6f90b69600223f55dc4
+POSTGRES_PASSWORD='synthetic_872c5a91e0dd25897ca5aa80d0ff97f085132da40bec474d'
